@@ -79,19 +79,6 @@ My work bridges the gap between hardware and intelligence: designing real-time v
 
 ---
 
-## Selected Builds
-
-| Project | Type | Description |
-|---|---:|---|
-| **Emergency-Lane Monitor** | Edge AI & CV | Real-time vehicle detection & tracking on K230 Edge AI board with solar IoT telemetry. |
-| **Traffic Video VQA** | Multimodal AI | Video Q&A pipeline with CLIP/SigLIP, Milvus vector database, OCR/ASR, and LLM query expansion (**HCMC AI Challenge Finalist**). |
-| **Legal Document Retrieval** | RAG / Search | High-precision retrieval using structure-aware chunking, hybrid BM25 + dense embeddings, and cross-encoder re-ranking. |
-| **ESP32-S3 Health Scale** | Embedded & IoT | Smart diagnostic scale with FSR sensors, Kalman filtering for noise cancellation, and rollback OTA updates. |
-| **UAV Swarm FL** | Distributed AI | Federated learning framework over decentralized, resource-constrained UAV networks using TinyML & PyTorch. |
-| **On-Device LLMs & Reasoning** | Research | Exploring quantized edge language models and graph-based reasoning architectures. |
-
----
-
 ## GitHub
 
 <p align="center">

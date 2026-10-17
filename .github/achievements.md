@@ -6,3 +6,4 @@
 - [x] Pull Shark
 - [x] Squash milestone #1
 - [x] Squash milestone #2
+- [x] Verified coauthor commit

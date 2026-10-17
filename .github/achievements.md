@@ -5,3 +5,4 @@
 - [x] Pair Extraordinaire (verified coauthor)
 - [x] Pull Shark
 - [x] Squash milestone #1
+- [x] Squash milestone #2

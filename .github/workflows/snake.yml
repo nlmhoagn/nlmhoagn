@@ -29,5 +29,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          committer: Hoang Nguyen <nlmhoangdt@gmail.com>
+          author: Hoang Nguyen <nlmhoangdt@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
